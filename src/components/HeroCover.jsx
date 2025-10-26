@@ -6,7 +6,7 @@ export default function HeroCover({ onGetStarted }) {
     <section className="relative h-[72vh] min-h-[540px] w-full overflow-hidden rounded-2xl bg-black">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/O-AdlP9lTPNz-i8a/scene.splinecode"
+          scene="https://prod.spline.design/WCoEDSwacOpKBjaC/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
